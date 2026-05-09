@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="color-scheme" content="light dark">
+    <meta name="google" content="notranslate">
+    <title>LivMirror: TITLE-TO-REPLACE</title>
+    <meta name="description" content="DESCRIPTION-TO-REPLACE">
+    <meta name="keywords" content="KEYWORDS-TO-REPLACE">
+
+    <!-- Pico.css 111-->
+    <!-- href="https://cdn.jsdelivr.net/npm/@picocss/pico@2.1.1/css/pico.min.css" -->
+    <link rel="stylesheet" href="../css/pico.min.css">
+    <style>
+      nav ul li details.dropdown summary {
+            width: fit-content !important;
+            display: inline-flex;
+            margin-bottom: 0;
+        }
+      @media (max-width: 768px) {
+        nav {
+          flex-direction: column;
+          align-items: flex-start;
+          padding: 1rem 0;
+        }
+        nav ul {
+          flex-direction: column;
+          width: 100%;
+          padding: 0;
+        }
+        nav ul:first-of-type {
+          margin-bottom: 0.5rem;
+        }
+        nav ul li {
+          width: 100%;
+          padding: 0.5rem 0;
+        }
+        nav ul li details.dropdown {
+            display: inline-block;
+            width: auto;
+        }
+      }
+    </style>
+  </head>
+
+  <body>
+    <header class="container">
+        <nav>
+          <ul>
+            <li>
+              <a href="../index.html" class="contrast secondary">
+                <div>
+                  <strong>[LivMirror]</strong>
+                </div>
+              </a>
+            </li>
+          </ul>
+          <ul>
+            <li><a href="../index.html" class="contrast secondary">Articles</a></li>
+            <li><a href="../about.html" class="secondary">About</a></li>
+            <li><a href="../contacts.html" class="secondary">Contacts</a></li>
+            <li>
+              <details class="dropdown">
+                <summary role="button" class="outline secondary">☀</summary>
+                <ul>
+                  <li><a href="#" data-theme-switcher="auto">Auto</a></li>
+                  <li><a href="#" data-theme-switcher="light">Light</a></li>
+                  <li><a href="#" data-theme-switcher="dark">Dark</a></li>
+                </ul>
+              </details>
+            </li>
+          </ul>
+        </nav>
+    </header>
+
+    <main class="container">
+      <div style="text-align: right;">
+        <small>DATE-TO-REPLACE</small>
+        <!-- float:right; -->
+      </div>
+      <div>
+      <section>
+        CONTENT-TO-REPLACE
+      </section>
+      </div>
+    </main>
+
+    <!-- Minimal theme switcher -->
+    <script src="../js/minimal-theme-switcher.js"></script>
+    </body>
+  </html>
