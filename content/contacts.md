@@ -9,8 +9,7 @@ images: []
 
 #  Contacts
 
-Questions? Ideas?
-Don't hesitate to contact me over via email:
+Any thoughts? Interested in helping with editing? Would you like to read a sequel?
 
 <button onclick="this.textContent='info@livmirror.com'">
   Click to reveal email
