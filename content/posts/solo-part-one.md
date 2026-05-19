@@ -85,7 +85,7 @@ I opened Waze, calculated the distance, and booked a hotel in Germany. 559 km, s
 Little did I know what awaited me in Ireland during the winter. I would eventually get used to driving in darkness, heavy rain, thick fog, icy roads on summer tires, and of course, on the left side. But that came later. At that time, I was already overwhelmed enough without all of that.
 
 The long highway stretched endlessly, and kilometer after kilometer slipped away beneath the wheels. Liters of diesel burned as I moved toward the unknown ahead. My feet ached from constant pressure on the accelerator. My back hurt, my palms were slick with sweat, and the steering wheel cover absorbed that hellish mix of salt and stress-born chemicals.
-Probably a few more silver hairs appeared on my head as my beloved silver Renault carried me forward, kilometer by kilometer.
+Probably a few more silver hairs appeared on my head as my beloved silver Renault carried me forward. Kilometer by kilometer.
 
 I was driving from one McDonald’s to another, just to reach something familiar. My mind refused to take in anything new or open itself to new experiences. It was too much - too much change, too much responsibility, too much fear at that time.
 
