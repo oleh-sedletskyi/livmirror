@@ -13,9 +13,9 @@ description: Trip from Kyiv to Dublin on the car
 
 I left my previous life behind.
 
-Timidly, I was breathing in my unknown future - smokeless air, silent darkness, a fearful uncertainty that, in the end, felt less dodgy than the certainty I had lived with before.
+Timidly, I was breathing in my unknown future - smokeless air, silent darkness, a fearful uncertainty that, in the end, felt less scary than the certainty I had lived with before.
 
-14 hours at the border - my first time crossing into another country by car. Ironically, there was more than enough time to think. I had learned to avoid deep thoughts; they only deepen the pain. As much as I could, I refused to internalise what my life had become after February 24, 2022. I felt frozen, both outside and within. I also had a strange feeling that I was just watching a strange film about my own life.
+14 hours at the border - my first time crossing into another country by car. There was more than enough time to think. I had learned to avoid deep thoughts; they only deepen the pain. As much as I could, I refused to internalise what my life had become after February 24, 2022. I felt frozen, both outside and within. I also had a strange feeling that I was just watching a strange film about my own life.
 
 3 a.m. I was driving through nocturnal Poland. I was afraid to blink, afraid I might fall asleep at the wheel. That would have been such a shamefully quick end to this journey. That would cause such embarrassing headlines in the news, something like: “Another irresponsible Ukrainian driver manages to kill herself and a poor farmer’s fence…”
 

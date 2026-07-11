@@ -124,7 +124,7 @@
                           (map parse-md-file)
                           (sort-by (fn [m] (-> (get-in m [:metadata :created])
                                                (t/date)))
-                                   #(compare %2 %1)))
+                                   #(compare %1 %2)))
         _ (println (str "Render " (count parsed-files) " posts"))
         rendered-files (->> parsed-files
                             (map render-post-html))
